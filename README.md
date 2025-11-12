@@ -19,5 +19,5 @@
 - 📘 I’m Currently learning **DSA**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/rishavch0udhary "GitHub Profile").
-- 📫 How to reach me **ssunny1010s@gmail.com**.
+- 📫 How to reach me **rishavchoudharysupercell@gmail.com**.
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/rishavch0udhary/ "LinkedIn Profile").
