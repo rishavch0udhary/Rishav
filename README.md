@@ -1,4 +1,4 @@
-![GitHub Banner](/assets/261852454-c81a95df-f5c7-4b1b-832e-0924bcde7014.png)
+
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Rishav</b></h1>
 
@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-<a><img align="right" src="https://stats.quira.sh/GODHelios19/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
+ 
 
 <br>
 
